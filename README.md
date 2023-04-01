@@ -2,7 +2,7 @@
 
 Dataset used:<br />
 https://bit.ly/3pM3Ptf<br />
-Jung, C. W-Net model and generated WBC images. 2022. https://bit.ly/2KAffwM. Accessed: 2022-3-25.<br />
+Jung, C. W-Net model and generated WBC images. 2022. https://bit.ly/2KAffwM. Accessed: 2023-3-25.<br />
 <br />
 The dataset is available for educational and scientific purposes<br />
 The dataset is high quality and well processed, so the obtained accuracy is high even with a simple model like what is shown here<br />
