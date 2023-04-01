@@ -23,7 +23,7 @@ Numpy<br />
 Pandas<br />
 Matplotlib<br />
 Tensorflow (According to python version)<br />
-Sklearn<br />
+scikit-learn<br />
 <br />
 Side Note:<br />
 The code block used has repetitions to allow it to be taken out and used in other project.<br />
